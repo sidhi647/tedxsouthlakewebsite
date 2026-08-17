@@ -134,8 +134,12 @@ export const departments: Department[] = [
   {
     name: "Technology",
     chairs: [
-      { name: "Brandon Karcher", role: "Technology Department Chair", placeholder: true },
-      { name: "Rishab Rakesh", role: "Technology Department Chair", placeholder: true },
+      {
+        name: "Surya Kasibhatla",
+        role: "Technology Department Chair",
+        photo: "/team/surya-kasibhatla.png",
+        bio: "Surya Kasibhatla is a recent graduate of Rock Hill High School and a determined individual who has faced significant challenges throughout his life due to Cerebral Palsy. Despite these obstacles, he has shown remarkable resilience and a commitment to personal growth. Surya's journey has been marked by his unwavering spirit and a desire to inspire others.\n\nHe is dedicated to sharing his experiences and insights to empower those facing their own struggles. In 2023, he took this commitment further by delivering a TEDxSouthlake talk, where he discussed overcoming physical limitations and embracing a philosophical shift in his approach to life. Following his talk, Surya felt inspired to contribute back to the TEDxSouthlake community, seeking to uplift and motivate others on their journey, thus leading social media marketing and curating posts for TEDxSouthlake.",
+      },
     ],
   },
   {
@@ -202,12 +206,6 @@ export const departments: Department[] = [
         role: "Marketing Department Co-Chair",
         photo: "/team/nikita-chawla.png",
         bio: "Nikita Chawla is a technology and product transformation leader specializing in AI, cloud computing, cloud security, and digital transformation. She has led enterprise modernization initiatives for global organizations, delivering innovative, customer-centric solutions that drive business impact.\n\nBeyond her professional work, Nikita actively contributes to the technology community through mentoring, judging innovation competitions, public speaking, and volunteering. As a passionate advocate for women in STEM and responsible AI, she is committed to empowering future technology leaders and fostering innovation with purpose. As TEDx Marketing Co-Chair, she is dedicated to amplifying transformative ideas, and creating a platform that inspires curiosity and collaboration.",
-      },
-      {
-        name: "Surya Kasibhatla",
-        role: "Marketing: Social Media Lead",
-        photo: "/team/surya-kasibhatla.png",
-        bio: "Surya Kasibhatla is a recent graduate of Rock Hill High School and a determined individual who has faced significant challenges throughout his life due to Cerebral Palsy. Despite these obstacles, he has shown remarkable resilience and a commitment to personal growth. Surya's journey has been marked by his unwavering spirit and a desire to inspire others.\n\nHe is dedicated to sharing his experiences and insights to empower those facing their own struggles. In 2023, he took this commitment further by delivering a TEDxSouthlake talk, where he discussed overcoming physical limitations and embracing a philosophical shift in his approach to life. Following his talk, Surya felt inspired to contribute back to the TEDxSouthlake community, seeking to uplift and motivate others on their journey, thus leading social media marketing and curating posts for TEDxSouthlake.",
       },
     ],
   },
