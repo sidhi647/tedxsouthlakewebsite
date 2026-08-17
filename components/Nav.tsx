@@ -11,9 +11,9 @@ export default function Nav() {
 
   return (
     <header className="sticky top-0 z-50 bg-tedx-black text-white">
-      <div className="container-page flex items-center justify-between h-20">
-        <Link href="/" className="flex items-center gap-1.5 font-bold text-2xl md:text-3xl tracking-tight">
-          <span className="bg-tedx-red px-2 py-0.5">TEDx</span>
+      <div className="container-page flex items-center justify-between h-24">
+        <Link href="/" className="flex items-center gap-2 font-bold text-3xl md:text-4xl tracking-tight -ml-3 md:-ml-4">
+          <span className="bg-tedx-red px-2.5 py-1">TEDx</span>
           <span>Southlake</span>
         </Link>
 
