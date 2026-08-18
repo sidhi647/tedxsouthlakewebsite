@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { useState } from "react";
 import { navItems } from "@/lib/nav";
 
@@ -12,9 +13,8 @@ export default function Nav() {
   return (
     <header className="sticky top-0 z-50 bg-tedx-black text-white">
       <div className="container-page flex items-center justify-between h-24">
-        <Link href="/" className="flex items-center gap-2 font-bold text-3xl md:text-4xl tracking-tight -ml-3 md:-ml-4">
-          <span className="bg-tedx-red px-2.5 py-1">TEDx</span>
-          <span>Southlake</span>
+        <Link href="/" className="flex items-center -ml-3 md:-ml-4">
+          <Image src="/logo.png" alt="TEDxSouthlake" width={926} height={228} className="h-10 md:h-12 w-auto" priority />
         </Link>
 
         {/* Desktop nav */}
