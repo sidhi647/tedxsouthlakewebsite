@@ -27,7 +27,7 @@ export default function Home() {
               Buy Tickets
             </CTAButton>
             <CTAButton href="/apply-to-speak" variant="outline-light">
-              Apply to Speak at our 2027 Conference
+              Apply to Speak
             </CTAButton>
           </div>
 
