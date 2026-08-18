@@ -14,7 +14,7 @@ export default function Nav() {
     <header className="sticky top-0 z-50 bg-tedx-black text-white">
       <div className="container-page flex items-center justify-between h-24">
         <Link href="/" className="flex items-center -ml-3 md:-ml-4">
-          <Image src="/logo.png" alt="TEDxSouthlake" width={926} height={228} className="h-10 md:h-12 w-auto" priority />
+          <Image src="/logo.png" alt="TEDxSouthlake" width={898} height={166} className="h-14 md:h-16 w-auto" priority />
         </Link>
 
         {/* Desktop nav */}
