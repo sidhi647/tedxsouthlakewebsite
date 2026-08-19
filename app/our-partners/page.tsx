@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import PageHero from "@/components/PageHero";
 import { Section, SectionHeading, EmptyState, CTAButton } from "@/components/ui";
-import { partners, partnerTiers, type Partner } from "@/lib/data";
+import { partners, partnerTiers, site, type Partner } from "@/lib/data";
 
 export const metadata: Metadata = {
   title: "Our Partners",
@@ -127,7 +127,12 @@ export default function OurPartnersPage() {
 
       <Section className="text-center">
         <SectionHeading title="Interested in partnering with us?" />
-        <CTAButton href="/become-a-partner">Partner With Us</CTAButton>
+        <div className="flex flex-wrap justify-center gap-4">
+          <CTAButton href="/become-a-partner">Partner With Us</CTAButton>
+          <CTAButton href={site.donateUrl} external variant="outline">
+            Donate
+          </CTAButton>
+        </div>
       </Section>
     </>
   );

@@ -14,6 +14,8 @@ export const site = {
     "https://forms.cloud.microsoft/pages/responsepage.aspx?id=unk1dUZJG0yWZ3T1opiGpPAT7SALlLREh1gsBKBxbYBUOU5STDJYWVZUT1IxSDZXNkVaNThSMUM5SC4u&route=shorturl",
   pastTalksPlaylistUrl: "https://www.youtube.com/playlist?list=PLfiOIwkP8zjo",
   apply2027Url: "https://forms.cloud.microsoft/r/UJYcYUnqrs",
+  donateUrl:
+    "https://www.zeffy.com/en-US/donation-form/help-us-keep-the-red-dot-glowing-become-a-supporter-or-sponsor",
 };
 
 export const event2026 = {
