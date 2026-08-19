@@ -9,7 +9,7 @@ export default function Home() {
       {/* Hero */}
       <section className="bg-tedx-black text-white relative overflow-hidden">
         <div className="container-page pt-12 md:pt-20 pb-24 md:pb-36 relative z-10">
-          <p className="eyebrow text-tedx-red mb-6">
+          <p className="eyebrow text-tedx-red mb-6 !text-base md:!text-lg">
             {event2026.edition} · {event2026.date}
           </p>
           <h1 className="text-6xl md:text-8xl font-extrabold tracking-tight">
