@@ -258,7 +258,26 @@ export const gemRounds = [
 ];
 
 export const coaches: Person[] = [
-  // PLACEHOLDER — coach roster pending. Add name, specialty, bio, linkedin for each active coach.
+  {
+    name: "Christy Rutherford",
+    role: "",
+    photo: "/coaches/christy-rutherford.jpeg",
+  },
+  {
+    name: "Ingrid Tomlinson",
+    role: "",
+    photo: "/coaches/ingrid-tomlinson.jpeg",
+  },
+  {
+    name: "Christine Krok",
+    role: "",
+    photo: "/coaches/christine-krok.jpeg",
+  },
+  {
+    name: "Pallavi Kamjula",
+    role: "",
+    photo: "/coaches/pallavi-kamjula.png",
+  },
 ];
 
 // ---------------------------------------------------------------------------
