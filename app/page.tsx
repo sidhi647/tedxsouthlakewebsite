@@ -8,7 +8,7 @@ export default function Home() {
     <>
       {/* Hero */}
       <section className="bg-tedx-black text-white relative overflow-hidden">
-        <div className="container-page py-24 md:py-36 relative z-10">
+        <div className="container-page pt-12 md:pt-20 pb-24 md:pb-36 relative z-10">
           <p className="eyebrow text-tedx-red mb-6">
             {event2026.edition} · {event2026.date}
           </p>
