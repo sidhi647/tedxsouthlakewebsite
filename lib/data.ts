@@ -363,12 +363,6 @@ export const featuredSpeakers: Speaker[] = [
     videoUrl: "https://youtu.be/JB1C6Tnpyxs",
   },
   {
-    name: "Jacqueline Schmidt",
-    talkTitle: "Digital Darwinism: Design the Future You Before the World Does It for You",
-    year: 2025,
-    photo: "/speakers/jacqueline-schmidt.png",
-  },
-  {
     name: "Harvey Castro, MD, MBA",
     talkTitle: "Staying Connected: How AI, Satellites & Edge Tech Keep Your Doctor Close",
     year: 2025,
@@ -430,12 +424,6 @@ export const featuredSpeakers: Speaker[] = [
     year: 2025,
     photo: "/speakers/justin-day.png",
     videoUrl: "https://youtu.be/hG4epOZj1Fs",
-  },
-  {
-    name: "Sidharth Ramsinghaney",
-    talkTitle: "War Room Mentality: Unlock Breakthroughs in Your Life With These",
-    year: 2025,
-    photo: "/speakers/sidharth-ramsinghaney.png",
   },
   {
     name: "Dr. Jessica Kriegal",
