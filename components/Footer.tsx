@@ -84,6 +84,7 @@ export default function Footer() {
             </p>
           </div>
           <div className="text-sm text-gray-300">
+            <p className="text-xs uppercase tracking-wide text-gray-500 mb-1">Contact</p>
             <a href={`mailto:${site.email}`} className="hover:text-tedx-red transition-colors">
               {site.email}
             </a>
