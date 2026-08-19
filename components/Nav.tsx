@@ -61,10 +61,10 @@ export default function Nav() {
           ))}
         </nav>
 
-        <div className="hidden lg:block">
+        <div className="hidden lg:block flex-shrink-0">
           <Link
             href="/2026-conference"
-            className="bg-tedx-red hover:bg-red-700 transition-colors text-white text-sm font-bold uppercase tracking-wide px-5 py-2.5"
+            className="bg-tedx-red hover:bg-red-700 transition-colors text-white text-sm font-bold uppercase tracking-wide px-5 py-2.5 whitespace-nowrap"
           >
             Buy Tickets
           </Link>
