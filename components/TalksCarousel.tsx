@@ -18,7 +18,7 @@ export default function TalksCarousel({ talks }: { talks: Speaker[] }) {
     <div className="relative">
       <div
         ref={scrollRef}
-        className="flex gap-6 overflow-x-auto snap-x snap-mandatory scroll-smooth pb-2 justify-[safe_center] [&::-webkit-scrollbar]:hidden [-ms-overflow-style:none] [scrollbar-width:none]"
+        className="flex gap-6 overflow-x-auto snap-x snap-mandatory scroll-smooth pb-2 lg:justify-center [&::-webkit-scrollbar]:hidden [-ms-overflow-style:none] [scrollbar-width:none]"
       >
         {talks.map((t) => (
           <a
