@@ -1,8 +1,7 @@
 import type { Metadata } from "next";
 import PageHero from "@/components/PageHero";
-import PersonCard from "@/components/PersonCard";
 import { Section, SectionHeading, CTAButton } from "@/components/ui";
-import { event2026, site, coaches } from "@/lib/data";
+import { event2026, site } from "@/lib/data";
 
 export const metadata: Metadata = {
   title: "Attend TEDxSouthlake 2026",
@@ -65,15 +64,6 @@ export default function AttendPage() {
             <p className="font-bold uppercase tracking-wide text-gray-500 mb-2">Format</p>
             <p className="text-gray-800">Full-day conference with curated lunch and networking</p>
           </div>
-        </div>
-      </Section>
-
-      <Section className="bg-gray-50">
-        <SectionHeading eyebrow="Curation" title="Meet our 2026 Curators" />
-        <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
-          {coaches.map((c) => (
-            <PersonCard key={c.name} person={c} />
-          ))}
         </div>
       </Section>
 
