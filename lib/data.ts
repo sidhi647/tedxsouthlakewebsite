@@ -264,21 +264,36 @@ export const coaches: Person[] = [
     name: "Christy Rutherford",
     role: "",
     photo: "/coaches/christy-rutherford.jpeg",
+    linkedin: "https://www.linkedin.com/in/christyrutherford/",
   },
   {
     name: "Ingrid Tomlinson",
     role: "",
     photo: "/coaches/ingrid-tomlinson.jpeg",
+    linkedin: "https://www.linkedin.com/in/ingrid-tomlinson-4241aa164/",
   },
   {
     name: "Christine Krok",
     role: "",
     photo: "/coaches/christine-krok.jpeg",
+    linkedin: "https://www.linkedin.com/in/christine-krok/",
   },
   {
     name: "Pallavi Kamjula",
     role: "",
     photo: "/coaches/pallavi-kamjula.png",
+    linkedin: "https://www.linkedin.com/in/pallavi-kamjula/",
+  },
+  {
+    name: "Stephanie Wedgeworth",
+    role: "",
+    photo: "/coaches/stephanie-wedgeworth.png",
+    linkedin: "https://www.linkedin.com/in/stephanie-wedgeworth-4a367923/",
+  },
+  {
+    name: "Katie Mares",
+    role: "",
+    linkedin: "https://www.linkedin.com/in/katie-mares-ctdp-mcatd-cpsa/",
   },
 ];
 
