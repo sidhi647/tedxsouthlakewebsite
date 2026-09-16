@@ -387,6 +387,7 @@ export type Speaker = {
   placeholder?: boolean;
   // Path under /public, e.g. "/speakers/todd-klackley.png". Add once the photo exists in public/speakers.
   photo?: string;
+  linkedinUrl?: string;
 };
 
 export const featuredSpeakers: Speaker[] = [
@@ -621,6 +622,13 @@ export const featuredSpeakers: Speaker[] = [
 
 export const speakers2026: Speaker[] = [
   // Rolling reveal — speaker cards are added as they're confirmed, per Phase 3 of the roadmap.
+  {
+    name: "Sheryl Raphael Whitaker",
+    idea: "Our 2026 Keynote Speaker - Sheryl Raphael Whitaker",
+    year: 2026,
+    photo: "/speakers/sheryl-raphael-whitaker.jpg",
+    linkedinUrl: "https://www.linkedin.com/in/sheryl-raphael-whitaker/",
+  },
 ];
 
 // ---------------------------------------------------------------------------

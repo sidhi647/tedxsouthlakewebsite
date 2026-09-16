@@ -45,6 +45,16 @@ export default function SpeakerCard({ speaker }: { speaker: Speaker }) {
         <p className="font-bold mt-1">{speaker.name}</p>
         {speaker.talkTitle && <p className="text-sm text-gray-700 mt-1">{speaker.talkTitle}</p>}
         {speaker.idea && <p className="text-sm text-gray-500 mt-1 italic">{speaker.idea}</p>}
+        {speaker.linkedinUrl && (
+          <a
+            href={speaker.linkedinUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-block mt-3 text-xs font-semibold uppercase tracking-wide text-tedx-red"
+          >
+            LinkedIn →
+          </a>
+        )}
         {speaker.videoUrl && (
           <a
             href={speaker.videoUrl}
