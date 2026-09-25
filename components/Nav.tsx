@@ -35,7 +35,7 @@ export default function Nav() {
                 </Link>
               ) : (
                 <button
-                  className="px-3 py-2 text-sm font-semibold uppercase tracking-wide hover:text-tedx-red transition-colors flex items-center gap-1"
+                  className="px-3 py-2 text-sm font-semibold uppercase tracking-wide hover:text-tedx-red transition-colors flex items-center gap-1 whitespace-nowrap"
                   aria-expanded={openDesktop === item.label}
                 >
                   {item.label}
