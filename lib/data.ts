@@ -629,6 +629,14 @@ export const speakers2026: Speaker[] = [
     photo: "/speakers/sheryl-raphael-whitaker.jpg",
     linkedinUrl: "https://www.linkedin.com/in/sheryl-raphael-whitaker/",
   },
+  {
+    name: "Angela Alson",
+    talkTitle: "True freedom is not a release date",
+    idea: "True freedom is found in transformation, not just transition. This talk explores what it really means to break cycles, reclaim your worth, and build a life anchored in purpose, healing, and lasting impact.",
+    year: 2026,
+    photo: "/speakers/angela-alson.webp",
+    linkedinUrl: "http://linkedin.com/in/angela-alston-a4002635",
+  },
 ];
 
 // ---------------------------------------------------------------------------
