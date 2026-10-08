@@ -650,7 +650,7 @@ export const speakers2026: Speaker[] = [
     talkTitle: "Your Inner Atlas: How to Build Honor Into Your Identity",
     idea: "Atlas Aultman is a retired U.S. Air Force officer whose service took him to 30 countries and included multiple command roles, service as a personal aide to the President of the United States, and a final tour supporting Special Operations in Afghanistan. **A recipient of two Bronze Star medals**, he has also been recognized for leadership, technology, and innovation. Beyond his military career, Atlas is an author, community contributor, and media expert. In “Your Inner Atlas: How to Build Honor into Your Identity,” he reflects on how our experiences shape us—and how the values we choose to honor become part of who we are.",
     year: 2026,
-    photo: "/speakers/atla-aultman.jpeg",
+    photo: "/speakers/atlas-aultman.jpeg",
     linkedinUrl: "https://www.linkedin.com/in/atlasaultman/",
   },
   {
