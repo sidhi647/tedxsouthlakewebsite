@@ -644,6 +644,22 @@ export const speakers2026: Speaker[] = [
     year: 2026,
     photo: "/speakers/napo-rumteen.png",
     linkedinUrl: "https://www.linkedin.com/in/napoleonrumteen/",
+  },
+  {
+    name: "Atlas Aultman",
+    talkTitle: "Your Inner Atlas: How to Build Honor Into Your Identity",
+    idea: "Atlas Aultman is a retired U.S. Air Force officer whose service took him to 30 countries and included multiple command roles, service as a personal aide to the President of the United States, and a final tour supporting Special Operations in Afghanistan. **A recipient of two Bronze Star medals**, he has also been recognized for leadership, technology, and innovation. Beyond his military career, Atlas is an author, community contributor, and media expert. In “Your Inner Atlas: How to Build Honor into Your Identity,” he reflects on how our experiences shape us—and how the values we choose to honor become part of who we are.",
+    year: 2026,
+    photo: "/speakers/atla-aultman.jpeg",
+    linkedinUrl: "https://www.linkedin.com/in/atlasaultman/",
+  },
+  {
+    name: "Joe Shaw",
+    talkTitle: "Is this urgent or inherited?",
+    idea: "Parents often think they're responding to the child in front of them, when they may also be reacting from beliefs and emotional patterns inherited from their own childhoods. By learning to distinguish what is truly urgent from what simply feels familiar, we can more intentionally choose what we pass on to the next generation.",
+    year: 2026,
+    photo: "/speakers/joe-shaw.jpeg",
+    linkedinUrl: "https://www.linkedin.com/in/joepshaw/",
   }
 ];
 
