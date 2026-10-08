@@ -628,7 +628,7 @@ export const speakers2026: Speaker[] = [
     idea: "A powerful reminder that joy isn't something we earn after success- it's something we choose while we lead. This talk challenges leaders to rethink what strength looks like, and how we can lead with purpose, presence, and joy that lasts.",
     year: 2026,
     photo: "/speakers/sheryl-raphael-whitaker.jpg",
-    linkedinUrl: "https://www.linkedin.com/in/sheryl-raphael-whitaker/",
+    linkedinUrl: "https://www.linkedin.com/in/sheryl-raphael-whitaker/"
   },
   {
     name: "Atlas Aultman",
@@ -636,7 +636,14 @@ export const speakers2026: Speaker[] = [
     idea: "Atlas Aultman is a retired U.S. Air Force officer whose service took him to 30 countries and included multiple command roles, service as a personal aide to the President of the United States, and a final tour supporting Special Operations in Afghanistan. A recipient of two Bronze Star medals, he has also been recognized for leadership, technology, and innovation. Beyond his military career, Atlas is an author, community contributor, and media expert. In “Your Inner Atlas: How to Build Honor into Your Identity,” he reflects on how our experiences shape us—and how the values we choose to honor become part of who we are.",
     year: 2026,
     photo: "/speakers/atlas-aultman.jpeg",
-    linkedinUrl: "https://www.linkedin.com/in/atlasaultman/",
+    linkedinUrl: "https://www.linkedin.com/in/atlasaultman/"
+  },
+  {
+    name: "Christiana Danielle",
+    talkTitle: "How to build a life that feels like home",
+    idea: "Pain can become so consuming that survival itself begins to feel like the goal. In this deeply personal talk, Christiana Danielle explores what happens when we stop asking one part of ourselves to carry the weight of our entire lives and begin making room for all of who we are. Drawing from her journey through music, healing, and purpose, she invites us to consider what it means to create a life that truly feels like home — and whether we are making space for every part of ourselves within it.",
+    year: 2026,
+    photo: "/speakers/christiana-danielle.jpeg"
   },
   {
     name: "Angela Alson",
@@ -644,7 +651,7 @@ export const speakers2026: Speaker[] = [
     idea: "True freedom is found in transformation, not just transition. This talk explores what it really means to break cycles, reclaim your worth, and build a life anchored in purpose, healing, and lasting impact.",
     year: 2026,
     photo: "/speakers/angela-alson.webp",
-    linkedinUrl: "http://linkedin.com/in/angela-alston-a4002635",
+    linkedinUrl: "http://linkedin.com/in/angela-alston-a4002635"
   },
   {
     name: "Napoleon Rumteen",
@@ -652,7 +659,7 @@ export const speakers2026: Speaker[] = [
     idea: "Your past experiences are real, but the meaning you gave them may not be. Napo has spent 30 years studying how people learn, adapt, and perform. He explores how the conclusions we carry forward can quietly lead us away from who we want to be.",
     year: 2026,
     photo: "/speakers/napo-rumteen.png",
-    linkedinUrl: "https://www.linkedin.com/in/napoleonrumteen/",
+    linkedinUrl: "https://www.linkedin.com/in/napoleonrumteen/"
   },
   {
     name: "Joe Shaw",
@@ -660,7 +667,7 @@ export const speakers2026: Speaker[] = [
     idea: "Parents often think they're responding to the child in front of them, when they may also be reacting from beliefs and emotional patterns inherited from their own childhoods. By learning to distinguish what is truly urgent from what simply feels familiar, we can more intentionally choose what we pass on to the next generation.",
     year: 2026,
     photo: "/speakers/joe-shaw.jpeg",
-    linkedinUrl: "https://www.linkedin.com/in/joepshaw/",
+    linkedinUrl: "https://www.linkedin.com/in/joepshaw/"
   },
   {
     name: "Harrison Carhart",
@@ -668,7 +675,7 @@ export const speakers2026: Speaker[] = [
     idea: "What if the thing about yourself that you have always believed needs fixing doesn't actually need to be fixed? This talk challenges you to look at your perceived flaws differently and consider whether they might actually be powerful tools when used intentionally. Sometimes, the very traits we want to change can help us accomplish our biggest goals.",
     year: 2026,
     photo: "/speakers/harrison-carhart.jpeg",
-    linkedinUrl: "https://www.linkedin.com/in/harrison-carhart-3862191a1/",
+    linkedinUrl: "https://www.linkedin.com/in/harrison-carhart-3862191a1/"
   },
   {
     name: "Anya Kasireddy",
@@ -685,12 +692,20 @@ export const speakers2026: Speaker[] = [
     photo: "/speakers/eric-miller.jpeg"
   },
   {
-    name: "Christiana Danielle",
-    talkTitle: "How to build a life that feels like home",
-    idea: "Pain can become so consuming that survival itself begins to feel like the goal. In this deeply personal talk, Christiana Danielle explores what happens when we stop asking one part of ourselves to carry the weight of our entire lives and begin making room for all of who we are. Drawing from her journey through music, healing, and purpose, she invites us to consider what it means to create a life that truly feels like home — and whether we are making space for every part of ourselves within it.",
+    name: "Georges Levy",
+    talkTitle: "Debate is a civic equity tool every young person deserves",
+    idea: "I want to democratize debate—bringing it out of tournaments and into parks, classrooms, and city meetings where people actually need to be heard. I care about the civic participation gap, which mirrors so many other inequalities, and about the strange fact that we already have the tools to shrink it but rarely share them. I'm also thinking more about my own community: competitive debate has spent decades refining itself into a private dialect no ordinary citizen can understand. I'd like to help change that.",
     year: 2026,
-    photo: "/speakers/christiana-danielle.jpeg"
+    photo: "/speakers/georges-levy.jpeg",
+    linkedinUrl: "https://www.linkedin.com/in/georgeslevy/"
   },
+  {
+    name: "Ishan Nagalla",
+    talkTitle: "Lying is like sugar, sweet now, deadly later",
+    idea: "Lying feels like sugar - it is the small reward now with consequences that quietly grow over time. At just 11 years old, Ishan Nagalla explores how small yet polite lies can shape trust, fear and behavior.\n\nThrough his simple Stop and Reflect approach, he challenges all of us to catch one lie before we tell it, and correct one before its tails grow.",
+    year: 2026,
+    photo: "/speakers/ishan-nagalla.jpeg"
+  }
 ];
 
 // ---------------------------------------------------------------------------
