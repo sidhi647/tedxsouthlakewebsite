@@ -637,6 +637,12 @@ export const speakers2026: Speaker[] = [
     photo: "/speakers/angela-alson.webp",
     linkedinUrl: "http://linkedin.com/in/angela-alston-a4002635",
   },
+  {
+    name: "Napoleon Rumteen",
+    idea: "For more than 30 years, Napo Rumteen has been centered on human behavior, performance, and development. Throughout his career as an entrepreneur and business executive, Napoleon Rumteen has worked across leadership, training, technology, and professional development. He has also created hundreds of training programs focused on human behavior, customer psychology, performance, and growth. Now, he's bringing those decades of experience to the TEDxSouthlake stage. Napo's work is rooted in a simple but powerful idea: Turn yesterday's mistakes into instructions for tomorrow.",
+    year: 2026,
+    linkedinUrl: "https://www.linkedin.com/in/napoleonrumteen/",
+  }
 ];
 
 // ---------------------------------------------------------------------------
