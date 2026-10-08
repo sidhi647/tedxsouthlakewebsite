@@ -651,7 +651,7 @@ export const speakers2026: Speaker[] = [
     idea: "True freedom is found in transformation, not just transition. This talk explores what it really means to break cycles, reclaim your worth, and build a life anchored in purpose, healing, and lasting impact.",
     year: 2026,
     photo: "/speakers/angela-alson.webp",
-    linkedinUrl: "http://linkedin.com/in/angela-alston-a4002635"
+    linkedinUrl: "https://www.linkedin.com/in/angela-alston-lcsw-ladc-cctp-a4002635/"
   },
   {
     name: "Napoleon Rumteen",
