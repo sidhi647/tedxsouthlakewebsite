@@ -624,7 +624,8 @@ export const speakers2026: Speaker[] = [
   // Rolling reveal — speaker cards are added as they're confirmed, per Phase 3 of the roadmap.
   {
     name: "Sheryl Raphael Whitaker",
-    idea: "Our 2026 Keynote Speaker - Sheryl Raphael Whitaker",
+    talkTitle: "Stop outsourcing your JOY",
+    idea: "A powerful reminder that joy isn't something we earn after success- it's something we choose while we lead. This talk challenges leaders to rethink what strength looks like, and how we can lead with purpose, presence, and joy that lasts.",
     year: 2026,
     photo: "/speakers/sheryl-raphael-whitaker.jpg",
     linkedinUrl: "https://www.linkedin.com/in/sheryl-raphael-whitaker/",
@@ -668,6 +669,27 @@ export const speakers2026: Speaker[] = [
     year: 2026,
     photo: "/speakers/harrison-carhart.jpeg",
     linkedinUrl: "https://www.linkedin.com/in/harrison-carhart-3862191a1/",
+  },
+  {
+    name: "Anya Kasireddy",
+    talkTitle: "Planning a Life for a Stranger",
+    idea: "Young people are often asked to make some of the biggest decisions about their future before they have had enough time to understand who they are becoming. Anya Kasireddy explores the pressure to choose a career, define success and map out a life for a future version of ourselves we have not even met yet.\n\nHer talk challenges the belief that uncertainty means we are behind. Instead, she asks us to leave room for curiosity, change and discovery - because perhaps the goal is not to perfectly plan who we will become, but to give ourselves enough space to become that person.",
+    year: 2026,
+    photo: "/speakers/anya-kasireddy.jpeg"
+  },
+  {
+    name: "Eric Miller",
+    talkTitle: "When we can't explain... We make up stories about ourselves.",
+    idea: "What if the story you've believed about yourself for decades was never the truth? After 57 years of believing he was “dumb,” one diagnosis revealed that his struggles had a name—and that he was never broken. His story is a powerful reminder that the right diagnosis can change not only how we understand our challenges, but what we believe is possible for our lives.",
+    year: 2026,
+    photo: "/speakers/eric-miller.jpeg"
+  },
+  {
+    name: "Christiana Danielle",
+    talkTitle: "How to build a life that feels like home",
+    idea: "Pain can become so consuming that survival itself begins to feel like the goal. In this deeply personal talk, Christiana Danielle explores what happens when we stop asking one part of ourselves to carry the weight of our entire lives and begin making room for all of who we are. Drawing from her journey through music, healing, and purpose, she invites us to consider what it means to create a life that truly feels like home — and whether we are making space for every part of ourselves within it.",
+    year: 2026,
+    photo: "/speakers/christiana-danielle.jpeg"
   },
 ];
 
