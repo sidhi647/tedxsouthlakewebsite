@@ -660,7 +660,15 @@ export const speakers2026: Speaker[] = [
     year: 2026,
     photo: "/speakers/joe-shaw.jpeg",
     linkedinUrl: "https://www.linkedin.com/in/joepshaw/",
-  }
+  },
+  {
+    name: "Harrison Carhart",
+    talkTitle: "What if it doesn't need fixing?",
+    idea: "What if the thing about yourself that you have always believed needs fixing doesn't actually need to be fixed? This talk challenges you to look at your perceived flaws differently and consider whether they might actually be powerful tools when used intentionally. Sometimes, the very traits we want to change can help us accomplish our biggest goals.",
+    year: 2026,
+    photo: "/speakers/harrison-carhart.jpeg",
+    linkedinUrl: "https://www.linkedin.com/in/harrison-carhart-3862191a1/",
+  },
 ];
 
 // ---------------------------------------------------------------------------
