@@ -639,7 +639,7 @@ export const speakers2026: Speaker[] = [
   },
   {
     name: "Napoleon Rumteen",
-    talkTitle: "True freedom is not a release date",
+    talkTitle: "Turn yesterday's mistakes into Instructions for Tomorrow",
     idea: "Your past experiences are real, but the meaning you gave them may not be. Napo has spent 30 years studying how people learn, adapt, and perform. He explores how the conclusions we carry forward can quietly lead us away from who we want to be.",
     year: 2026,
     photo: "/speakers/napo-rumteen.png",
@@ -648,7 +648,7 @@ export const speakers2026: Speaker[] = [
   {
     name: "Atlas Aultman",
     talkTitle: "Your Inner Atlas: How to Build Honor Into Your Identity",
-    idea: "Atlas Aultman is a retired U.S. Air Force officer whose service took him to 30 countries and included multiple command roles, service as a personal aide to the President of the United States, and a final tour supporting Special Operations in Afghanistan. **A recipient of two Bronze Star medals**, he has also been recognized for leadership, technology, and innovation. Beyond his military career, Atlas is an author, community contributor, and media expert. In “Your Inner Atlas: How to Build Honor into Your Identity,” he reflects on how our experiences shape us—and how the values we choose to honor become part of who we are.",
+    idea: "Atlas Aultman is a retired U.S. Air Force officer whose service took him to 30 countries and included multiple command roles, service as a personal aide to the President of the United States, and a final tour supporting Special Operations in Afghanistan. A recipient of two Bronze Star medals, he has also been recognized for leadership, technology, and innovation. Beyond his military career, Atlas is an author, community contributor, and media expert. In “Your Inner Atlas: How to Build Honor into Your Identity,” he reflects on how our experiences shape us—and how the values we choose to honor become part of who we are.",
     year: 2026,
     photo: "/speakers/atlas-aultman.jpeg",
     linkedinUrl: "https://www.linkedin.com/in/atlasaultman/",
