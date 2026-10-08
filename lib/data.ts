@@ -639,7 +639,8 @@ export const speakers2026: Speaker[] = [
   },
   {
     name: "Napoleon Rumteen",
-    idea: "For more than 30 years, Napo Rumteen has been centered on human behavior, performance, and development. Throughout his career as an entrepreneur and business executive, Napoleon Rumteen has worked across leadership, training, technology, and professional development. He has also created hundreds of training programs focused on human behavior, customer psychology, performance, and growth. Now, he's bringing those decades of experience to the TEDxSouthlake stage. Napo's work is rooted in a simple but powerful idea: Turn yesterday's mistakes into instructions for tomorrow.",
+    talkTitle: "True freedom is not a release date",
+    idea: "Your past experiences are real, but the meaning you gave them may not be. Napo has spent 30 years studying how people learn, adapt, and perform. He explores how the conclusions we carry forward can quietly lead us away from who we want to be.",
     year: 2026,
     photo: "/speakers/napo-rumteen.png",
     linkedinUrl: "https://www.linkedin.com/in/napoleonrumteen/",
