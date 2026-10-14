@@ -30,10 +30,10 @@ export const event2026 = {
   tickets: [
     {
       tier: "General Admission",
-      price: "$150",
-      note: "Early pricing",
+      price: "$175",
+/*       note: "Early pricing",
       priceRegular: "$175",
-      description:
+ */      description:
         "Access to the full TEDxSouthlake 2026 experience.",
       features: [
         "Full-day entry to all TEDx talks",
@@ -44,10 +44,10 @@ export const event2026 = {
     },
     {
       tier: "VIP Admission",
-      price: "$375",
-      note: "Early pricing",
+      price: "$400",
+/*       note: "Early pricing",
       priceRegular: "$400",
-      description:
+ */      description:
         "An elevated and immersive TEDxSouthlake experience designed for deeper connection and access.",
       features: [
         "Reserved front-row seating for all TEDxSouthlake 2026 talks",
