@@ -44,7 +44,7 @@ export const event2026 = {
     },
     {
       tier: "VIP Admission",
-      price: "$400",
+      price: "$375",
 /*       note: "Early pricing",
       priceRegular: "$400",
  */      description:
