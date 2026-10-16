@@ -752,6 +752,14 @@ export const speakers2026: Speaker[] = [
     year: 2026,
     photo: "/speakers/ajay-reddy.jpeg"
   },
+  {
+    name: "Ariel Ganelis",
+    talkTitle: "Proverbs are the Original Human Prompt",
+    idea: "To navigate our AI-driven future, we must first unlearn the myth that “more data” equals “more wisdom” and instead rediscover the proverb: an ancient, unhackable “Human Prompt” that acts as a 10-word survival kit for reclaiming our agency in a world of synthetic noise.",
+    year: 2026,
+    photo: "/speakers/ariel-ganelis.jpeg",
+    linkedinUrl: "https://www.linkedin.com/in/ariel-ganelis/",
+  },
 ];
 
 // ---------------------------------------------------------------------------
