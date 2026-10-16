@@ -730,7 +730,28 @@ export const speakers2026: Speaker[] = [
     idea: "Lying feels like sugar - it is the small reward now with consequences that quietly grow over time. At just 11 years old, Ishan Nagalla explores how small yet polite lies can shape trust, fear and behavior.\n\nThrough his simple Stop and Reflect approach, he challenges all of us to catch one lie before we tell it, and correct one before its tails grow.",
     year: 2026,
     photo: "/speakers/ishan-nagalla.jpeg"
-  }
+  },
+  {
+    name: "Rohan Achuri",
+    talkTitle: "Confidence Doesn't Mean Perfection",
+    idea: "Confidence isn't something you're born with. It's something you build, one small act of courage at a time.\n\nFrom introducing yourself to a stranger to risking failure, every micro-moment of bravery strengthens your belief in yourself.\n\nFor anyone who's ever felt like they don't quite belong in their own life: your confidence starts with one brave move.",
+    year: 2026,
+    photo: "/speakers/rohan-achuri.jpeg"
+  },
+  {
+    name: "Brent MacLerie",
+    talkTitle: "The Cost of Raising Boys to Say “I'm Fine”",
+    idea: "For generations we have handed boys a set of rules about strength, silence, and self-sufficiency. By the time those boys are men, those rules aren't just beliefs, they're a behavioral loop. And that loop is killing them. This talk introduces a framework for breaking it. Not by telling men what's wrong with them, but by questioning what was wrong with what we all taught them.",
+    year: 2026,
+    photo: "/speakers/brent-maclerie.jpeg"
+  },
+  {
+    name: "Ajay Reddy",
+    talkTitle: "We inherit more than DNA",
+    idea: "We inherit habits, assumptions, and health scripts that can shape our future before we ever question them.\n\nWhat if some of what we call “family history” isn't just what runs in our blood, but what repeats in our family?",
+    year: 2026,
+    photo: "/speakers/ajay-reddy.jpeg"
+  },
 ];
 
 // ---------------------------------------------------------------------------
