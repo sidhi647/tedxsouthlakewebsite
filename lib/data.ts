@@ -655,6 +655,14 @@ export const speakers2026: Speaker[] = [
     photo: "/speakers/christiana-danielle.jpeg"
   },
   {
+    name: "Nikki Dutta",
+    talkTitle: "What happens when the life you worked so hard to build no longer feels like yours?",
+    idea: "Nikki Dutta successfully built her career across very different worlds - government, entrepreneurship, business ownership and meditation. But, some of her biggest lessons came when she stopped asking, “Am I doing well?” and started asking, “Is this actually the life I chose?” Her journey through success, loss and reinvention has given her a very personal perspective on family expectations, identity and the courage to choose differently. At TEDxSouthlake, Nikki asks a question many of us may recognize: Whose life are you surrendering to?",
+    year: 2026,
+    photo: "/speakers/nikki-dutta.jpeg",
+    linkedinUrl: "https://www.linkedin.com/in/nikki-dutta-5823b628a/"
+  },
+  {
     name: "Angela Alson",
     talkTitle: "True freedom is not a release date",
     idea: "True freedom is found in transformation, not just transition. This talk explores what it really means to break cycles, reclaim your worth, and build a life anchored in purpose, healing, and lasting impact.",
