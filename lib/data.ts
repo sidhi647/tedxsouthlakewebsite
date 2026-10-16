@@ -650,9 +650,9 @@ export const speakers2026: Speaker[] = [
   {
     name: "Christiana Danielle",
     talkTitle: "How to build a life that feels like home",
-    idea: "Pain can become so consuming that survival itself begins to feel like the goal. In this deeply personal talk, Christiana Danielle explores what happens when we stop asking one part of ourselves to carry the weight of our entire lives and begin making room for all of who we are. Drawing from her journey through music, healing, and purpose, she invites us to consider what it means to create a life that truly feels like home — and whether we are making space for every part of ourselves within it.",
+    idea: "Christiana Danielle is a nationally recognized singer-songwriter, recording artist and licensed social worker whose work lives at the intersection of music, mental health and healing. She rose to national attention as a Top 10 finalist on Season 14 of NBC's The Voice, competing on Alicia Keys' team after earning a three-chair turn during her blind audition.\n\nBeyond the stage, Christiana has built her work around emotional wellness and authentic self-expression. As a mental health educator and advocate, she brings together her experience as an artist and social worker to help people explore healing, identity and what it means to feel whole.",
     year: 2026,
-    photo: "/speakers/christiana-danielle.jpeg"
+    photo: "/speakers/christiana-danielle.jpeg",
   },
   {
     name: "Nikki Dutta",
