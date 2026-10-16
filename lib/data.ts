@@ -18,6 +18,15 @@ export const site = {
     "https://www.zeffy.com/en-US/donation-form/help-us-keep-the-red-dot-glowing-become-a-supporter-or-sponsor",
 };
 
+type Ticket = {
+  tier: string;
+  price: string;
+  note?: string;
+  priceRegular?: string;
+  description: string;
+  features: string[];
+};
+
 export const event2026 = {
   year: 2026,
   edition: "7th Annual Conference",
@@ -56,7 +65,7 @@ export const event2026 = {
         "Exclusive post-event interaction time with speakers",
       ],
     },
-  ],
+  ] as Ticket[],
 };
 
 export const stats = [

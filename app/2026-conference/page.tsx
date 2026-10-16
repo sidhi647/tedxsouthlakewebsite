@@ -25,9 +25,13 @@ export default function AttendPage() {
                 <p className="eyebrow text-tedx-red mb-2">{t.tier}</p>
                 <div className="flex items-baseline gap-2">
                   <p className="text-4xl font-extrabold">{t.price}</p>
-                  <p className="text-sm text-gray-500">{t.note}</p>
+                  {t.note && <p className="text-sm text-gray-500">{t.note}</p>}
                 </div>
-                <p className="text-sm text-gray-400">Regular pricing: {t.priceRegular}</p>
+                {t.priceRegular && (
+                  <p className="text-sm text-gray-400">
+                    Regular pricing: {t.priceRegular}
+                  </p>
+                )}
                 <p className="mt-4 text-gray-700">{t.description}</p>
                 <ul className="mt-6 space-y-2.5">
                   {t.features.map((f) => (
