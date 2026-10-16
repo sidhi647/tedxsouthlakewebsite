@@ -663,6 +663,14 @@ export const speakers2026: Speaker[] = [
     linkedinUrl: "https://www.linkedin.com/in/nikki-dutta-5823b628a/"
   },
   {
+    name: "Marleece Estella, MD",
+    talkTitle: "Social impact of kindness",
+    idea: "Kindness is not just a virtue, sentiment, or personality trait—it is a trainable behavior. Through the practice I call “Kindnesscise”, intentionally exercising kindness toward ourselves, others, and the world, we can improve health, strengthen communities, and help societies flourish.",
+    year: 2026,
+    photo: "/speakers/marleece-estella.jpeg",
+    linkedinUrl: "https://www.linkedin.com/in/marleece-estella-md-mhcm-99963060/",
+  },
+  {
     name: "Angela Alson",
     talkTitle: "True freedom is not a release date",
     idea: "True freedom is found in transformation, not just transition. This talk explores what it really means to break cycles, reclaim your worth, and build a life anchored in purpose, healing, and lasting impact.",
