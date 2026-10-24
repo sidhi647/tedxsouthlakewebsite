@@ -9,7 +9,7 @@ export const site = {
   ticketUrl:
     "https://www.zeffy.com/en-US/ticketing/tedx-southlake-2026-unlearn-the-7th-annual-conference",
   volunteerFormUrl:
-    "https://forms.cloud.microsoft/pages/responsepage.aspx?id=unk1dUZJG0yWZ3T1opiGpPAT7SALlLREh1gsBKBxbYBUREhHNFpJTFhITUQ3OUZRTVA4MzhETFk2Mi4u&route=shorturl",
+    "https://docs.google.com/forms/d/1nZqnj2k1q5tVOZEhy6fNFpBmyVESQwHGj-1rteLIdVM/viewform?edit_requested=true",
   summerLeadershipFormUrl:
     "https://forms.cloud.microsoft/pages/responsepage.aspx?id=unk1dUZJG0yWZ3T1opiGpPAT7SALlLREh1gsBKBxbYBUOU5STDJYWVZUT1IxSDZXNkVaNThSMUM5SC4u&route=shorturl",
   pastTalksPlaylistUrl: "https://www.youtube.com/playlist?list=PLfiOIwkP8zjo",

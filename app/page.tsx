@@ -29,6 +29,9 @@ export default function Home() {
             <CTAButton href="/apply-to-speak" variant="outline-light">
               Apply to Speak
             </CTAButton>
+            <CTAButton href={site.volunteerFormUrl} external>
+              Volunteer with us
+            </CTAButton>
           </div>
 
           <div className="mt-12 flex flex-wrap gap-x-8 gap-y-3 text-sm">
